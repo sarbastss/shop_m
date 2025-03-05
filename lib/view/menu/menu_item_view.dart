@@ -162,7 +162,8 @@ Positioned(
                       ),
                       const SizedBox(
                         width: 8,
-                      ),
+                      ), 
+                      Text("bzkjhbkvbkds"),
                       Text(
                         "(${mob["rating"] ?? ''} Ratings)",
                         textAlign: TextAlign.center,
