@@ -1,0 +1,2 @@
+C:/Users/sarba/StudioProjects/monki_shop/android/app/.cxx/Debug/135he1d4/x86/CMakeFiles/edit_cache.dir
+C:/Users/sarba/StudioProjects/monki_shop/android/app/.cxx/Debug/135he1d4/x86/CMakeFiles/rebuild_cache.dir
